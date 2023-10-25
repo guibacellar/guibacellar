@@ -1,8 +1,8 @@
 <p align="center"><img src="https://github.com/guibacellar/guibacellar/blob/main/Logo_v2.png" /></p>
 
 <h1 align="center">Guilherme Bacellar / Th3 0bservator </h1>
-<h3 align="center">Security Researcher | Machine Learning and Fraud Detection Specialist | Cyber Espionage | Malware Creator | Mobile Reverse Engineer | OSINT Lover | Writer</h3>
-<h4 align="center">1 Public OSINT Tool, 2 Malware Families Names and 1 Injection Tool used on C|EH and OSEP Certifications</h4>
+<h3 align="center">Security Researcher | Machine Learning and Fraud Detection Specialist | Cyber Espionage | Malware Creator | Mobile Reverse Engineer | OSINT Lover | Facial Biometrics Breaker | Writer</h3>
+<h4 align="center">1 Public OSINT Tool, 2 Malware Families Names, 1 Injection Tool used on C|EH and OSEP Certifications and 9 Bypasses on Facial Biometric Liveness Detection</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guibacellar&label=Profile%20views&color=0e75b6&style=flat" alt="guibacellar" /> </p>
 
